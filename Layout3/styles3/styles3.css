@@ -27,6 +27,7 @@ nav{grid-row: 1/2;grid-column: 3/5;}
 nav{height: 40px;
     justify-self: center;
     justify-content: center;
+    margin-top: 20px;;
 }
 nav ul li  {padding: 3px 25px; font-size: 1.2em;}
 header{ grid-row: 2/3;grid-column: 1/5;}
